@@ -1,0 +1,2 @@
+export const ADD_COORDINATES = 'ADD_COORDINATES';
+export const CALC_DISTANCE = 'CALC_DISTANCE';
